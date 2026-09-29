@@ -1,0 +1,884 @@
+log_id,flagged_reason,investigation_status,logged_at,transaction_amount,merchant_category,customer_name,customer_risk_profile,country
+3419,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",95380.723684,"Online Casino","Priya Sharma",Medium,India
+4458,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95380.723684,"Online Casino","Priya Sharma",Medium,India
+33,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",95555.555556,"Online Casino","Priya Sharma",Medium,India
+4191,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",95555.555556,"Online Casino","Priya Sharma",Medium,India
+34,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",91444.444444,"Crypto Exchange","Priya Sharma",Medium,India
+3254,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94617.985714,"Crypto Exchange","Priya Sharma",Medium,India
+4192,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",91444.444444,"Crypto Exchange","Priya Sharma",Medium,India
+4456,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",94617.985714,"Crypto Exchange","Priya Sharma",Medium,India
+29,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",98500.000000,"DarkWeb Broker","Priya Sharma",Medium,India
+93,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",98500.000000,"DarkWeb Broker","Priya Sharma",Medium,India
+4187,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",98500.000000,"DarkWeb Broker","Priya Sharma",Medium,India
+31,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",93500.000000,"Offshore Gambling","Priya Sharma",Medium,India
+95,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",93500.000000,"Offshore Gambling","Priya Sharma",Medium,India
+4189,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",93500.000000,"Offshore Gambling","Priya Sharma",Medium,India
+4437,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",93500.000000,"Offshore Gambling","Priya Sharma",Medium,India
+3359,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92382.335455,"Shell Electronics","Priya Sharma",Medium,India
+4450,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",78690.757500,"Luxury Retail","Priya Sharma",Medium,India
+4193,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",60000.000000,"Grocery Store","Priya Sharma",Medium,India
+35,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Priya Sharma",Medium,India
+4194,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Priya Sharma",Medium,India
+4195,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Priya Sharma",Medium,India
+37,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Rahul Das",Low,India
+4198,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Rahul Das",Low,India
+4199,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Rahul Das",Low,India
+3323,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",114393.170000,"Shell Electronics","Rahul Das",Low,India
+2973,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",85291.925000,"Online Casino","Rahul Das",Low,India
+4483,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",88992.187778,"Online Casino","Rahul Das",Low,India
+2972,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94890.601000,"Crypto Exchange","Rahul Das",Low,India
+4480,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",94890.601000,"Crypto Exchange","Rahul Das",Low,India
+4478,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95163.036667,"Luxury Retail","Rahul Das",Low,India
+4203,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",60000.000000,"Grocery Store","Rahul Sharma",Low,India
+39,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Rahul Sharma",Low,India
+4204,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Rahul Sharma",Low,India
+4205,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Rahul Sharma",Low,India
+3040,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",87365.641111,"Shell Electronics","Rahul Sharma",Low,India
+4505,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",90079.925556,"Luxury Retail","Rahul Sharma",Low,India
+3185,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",109282.462727,"Online Casino","Rahul Sharma",Low,India
+4509,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",114985.736000,"Online Casino","Rahul Sharma",Low,India
+3311,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104100.964000,"Crypto Exchange","Rahul Sharma",Low,India
+4512,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104100.964000,"Crypto Exchange","Rahul Sharma",Low,India
+4206,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",60000.000000,"Grocery Store","Arjun Ramanujan",Medium,Malaysia
+40,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Arjun Ramanujan",Medium,Malaysia
+4207,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Arjun Ramanujan",Medium,Malaysia
+4208,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Arjun Ramanujan",Medium,Malaysia
+3300,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",118601.053750,"Crypto Exchange","Arjun Ramanujan",Medium,Malaysia
+3396,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",79661.425000,"Online Casino","Arjun Ramanujan",Medium,Malaysia
+3289,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",81458.567500,"Shell Electronics","Arjun Ramanujan",Medium,Malaysia
+4209,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",60000.000000,"Grocery Store","Arjun Joshi",Medium,India
+41,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Arjun Joshi",Medium,India
+4210,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Arjun Joshi",Medium,India
+4211,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Arjun Joshi",Medium,India
+2837,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",107984.578333,"Shell Electronics","Arjun Joshi",Medium,India
+4526,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",109301.143333,"Luxury Retail","Arjun Joshi",Medium,India
+2897,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",104364.418333,"Online Casino","Arjun Joshi",Medium,India
+4527,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104364.418333,"Online Casino","Arjun Joshi",Medium,India
+3393,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",120703.570000,"Crypto Exchange","Arjun Joshi",Medium,India
+4525,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",120703.570000,"Crypto Exchange","Arjun Joshi",Medium,India
+42,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Aditya Mehta",High,Thailand
+4212,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Aditya Mehta",High,Thailand
+4213,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Aditya Mehta",High,Thailand
+2641,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",112940.285714,"Shell Electronics","Aditya Mehta",High,Thailand
+2724,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",100407.648000,"Online Casino","Aditya Mehta",High,Thailand
+3347,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103143.430000,"Crypto Exchange","Aditya Mehta",High,Thailand
+44,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Rahul Mehta",Medium,Thailand
+4216,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Rahul Mehta",Medium,Thailand
+4217,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Rahul Mehta",Medium,Thailand
+3397,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",107279.924000,"Crypto Exchange","Rahul Mehta",Medium,Thailand
+3054,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100095.694545,"Shell Electronics","Rahul Mehta",Medium,Thailand
+3352,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",101791.840000,"Online Casino","Rahul Mehta",Medium,Thailand
+4305,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",63990.615000,"Crypto Exchange","Rahul Mehta",Medium,Thailand
+4218,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",60000.000000,"Grocery Store","Ananya Iyer",Low,Singapore
+45,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Ananya Iyer",Low,Singapore
+4219,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Ananya Iyer",Low,Singapore
+4220,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Ananya Iyer",Low,Singapore
+2648,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",81653.006000,"Shell Electronics","Ananya Iyer",Low,Singapore
+3042,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",118883.954000,"Crypto Exchange","Ananya Iyer",Low,Singapore
+3111,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",102357.577273,"Online Casino","Ananya Iyer",Low,Singapore
+46,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Rahul Mehta",Low,Thailand
+4221,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",55000.000000,"Gas Station","Rahul Mehta",Low,Thailand
+4222,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",45000.000000,"Luxury Retail","Rahul Mehta",Low,Thailand
+2921,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",87008.676250,"Online Casino","Rahul Mehta",Low,Thailand
+2373,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92666.422500,"Crypto Exchange","Rahul Mehta",Low,Thailand
+3046,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92856.352727,"Shell Electronics","Rahul Mehta",Low,Thailand
+3001,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",124602.106000,"Crypto Exchange","Madhav Das",Low,Malaysia
+4259,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",136454.155000,"Crypto Exchange","Madhav Das",Low,Malaysia
+2048,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",75312.990000,"Online Casino","Madhav Das",Low,Malaysia
+2684,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103261.913333,"Shell Electronics","Madhav Das",Low,Malaysia
+2456,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",130525.035000,"Crypto Exchange","Madhav Joshi",Medium,India
+4224,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Madhav Joshi",Medium,India
+4536,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",130525.035000,"Crypto Exchange","Madhav Joshi",Medium,India
+3313,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",84325.653333,"Online Casino","Madhav Joshi",Medium,India
+4532,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",84325.653333,"Online Casino","Madhav Joshi",Medium,India
+3174,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93993.930000,"Shell Electronics","Madhav Joshi",Medium,India
+4535,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",122036.865000,"Luxury Retail","Madhav Joshi",Medium,India
+3395,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",124119.755714,"Online Casino","Aditya Sharma",High,India
+4225,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Aditya Sharma",High,India
+4551,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",124119.755714,"Online Casino","Aditya Sharma",High,India
+2649,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",84894.855714,"Shell Electronics","Aditya Sharma",High,India
+4553,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",102339.680000,"Luxury Retail","Aditya Sharma",High,India
+3335,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",123764.502500,"Crypto Exchange","Aditya Sharma",High,India
+4555,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",123764.502500,"Crypto Exchange","Aditya Sharma",High,India
+2986,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",116935.302143,"Online Casino","Riya Mehta",Low,Malaysia
+4226,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Riya Mehta",Low,Malaysia
+3186,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88002.800000,"Shell Electronics","Riya Mehta",Low,Malaysia
+2989,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88860.940769,"Crypto Exchange","Riya Mehta",Low,Malaysia
+103,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Riya Mehta",Low,Malaysia
+4227,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Riya Mehta",Low,Malaysia
+104,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Rahul Nair",Medium,Singapore
+4228,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Rahul Nair",Medium,Singapore
+2343,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",84249.314286,"Shell Electronics","Rahul Nair",Medium,Singapore
+2070,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",82528.435000,"Crypto Exchange","Rahul Nair",Medium,Singapore
+2579,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",113031.980000,"Online Casino","Rahul Nair",Medium,Singapore
+2894,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92511.314444,"Crypto Exchange","Sai Verma",High,India
+4230,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Sai Verma",High,India
+4575,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",92511.314444,"Crypto Exchange","Sai Verma",High,India
+3033,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",109254.616667,"Shell Electronics","Sai Verma",High,India
+4297,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135364.070000,"Shell Electronics","Sai Verma",High,India
+3039,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",108385.900000,"Online Casino","Sai Verma",High,India
+4573,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108385.900000,"Online Casino","Sai Verma",High,India
+4569,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",93201.687500,"Luxury Retail","Sai Verma",High,India
+3213,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",84073.718000,"Online Casino","Sai Mehta",Medium,Singapore
+4231,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Sai Mehta",Medium,Singapore
+2996,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108111.038333,"Shell Electronics","Sai Mehta",Medium,Singapore
+3230,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94532.130000,"Crypto Exchange","Sai Mehta",Medium,Singapore
+3222,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",108554.526429,"Online Casino","Rahul Ramanujan",High,Singapore
+4232,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Rahul Ramanujan",High,Singapore
+2209,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103726.081818,"Crypto Exchange","Rahul Ramanujan",High,Singapore
+2737,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101706.141429,"Shell Electronics","Rahul Ramanujan",High,Singapore
+109,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Rahul Ramanujan",High,Singapore
+4233,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Rahul Ramanujan",High,Singapore
+110,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Rahul Sharma",High,Thailand
+4234,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Rahul Sharma",High,Thailand
+3240,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105181.765000,"Shell Electronics","Rahul Sharma",High,Thailand
+798,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",100034.560000,"Online Casino","Rahul Sharma",High,Thailand
+1786,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",111838.305000,"Crypto Exchange","Rahul Sharma",High,Thailand
+2991,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101163.998667,"Crypto Exchange","Sai Patel",Low,India
+4266,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",131347.055000,"Crypto Exchange","Sai Patel",Low,India
+4770,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",101163.998667,"Crypto Exchange","Sai Patel",Low,India
+2877,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93666.977778,"Shell Electronics","Sai Patel",Low,India
+4771,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",94892.208889,"Luxury Retail","Sai Patel",Low,India
+3365,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",102751.574706,"Online Casino","Sai Patel",Low,India
+4773,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",105924.775000,"Online Casino","Sai Patel",Low,India
+3328,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98732.956000,"Crypto Exchange","Riya Das",Medium,India
+4236,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Riya Das",Medium,India
+4620,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",103997.993333,"Crypto Exchange","Riya Das",Medium,India
+3121,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",125905.056667,"Shell Electronics","Riya Das",Medium,India
+4614,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",101750.718333,"Luxury Retail","Riya Das",Medium,India
+2769,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",94644.315000,"Online Casino","Riya Das",Medium,India
+4619,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100864.601429,"Online Casino","Riya Das",Medium,India
+4237,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Riya Das",Medium,India
+3337,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",109976.510000,"Online Casino","Aarav Sharma",Medium,Singapore
+4238,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Aarav Sharma",Medium,Singapore
+3069,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89770.431667,"Shell Electronics","Aarav Sharma",Medium,Singapore
+3142,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94823.144000,"Crypto Exchange","Aarav Sharma",Medium,Singapore
+115,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Riya Das",Medium,Malaysia
+4239,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Riya Das",Medium,Malaysia
+3032,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",86911.370000,"Crypto Exchange","Riya Das",Medium,Malaysia
+2529,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93529.748333,"Shell Electronics","Riya Das",Medium,Malaysia
+2144,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",84812.506667,"Online Casino","Riya Das",Medium,Malaysia
+4285,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",105487.500000,"Crypto Exchange","Riya Das",Medium,Malaysia
+116,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Vivaan Nair",Medium,Singapore
+4240,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Vivaan Nair",Medium,Singapore
+3175,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105699.860000,"Shell Electronics","Vivaan Nair",Medium,Singapore
+3338,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103565.959000,"Crypto Exchange","Vivaan Nair",Medium,Singapore
+3416,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",91332.695000,"Online Casino","Vivaan Nair",Medium,Singapore
+4241,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Vivaan Nair",Medium,Singapore
+2425,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100176.007500,"Crypto Exchange","Madhav Das",Medium,Thailand
+4242,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Madhav Das",Medium,Thailand
+2783,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",70926.036667,"Online Casino","Madhav Das",Medium,Thailand
+2220,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89826.563333,"Shell Electronics","Madhav Das",Medium,Thailand
+3306,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",101678.246923,"Online Casino","Sai Sharma",Low,Singapore
+4244,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Sai Sharma",Low,Singapore
+2995,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",112167.556250,"Crypto Exchange","Sai Sharma",Low,Singapore
+3055,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",96631.894615,"Shell Electronics","Sai Sharma",Low,Singapore
+122,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Arjun Reddy",Low,Malaysia
+4246,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Arjun Reddy",Low,Malaysia
+3420,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92037.799091,"Shell Electronics","Arjun Reddy",Low,Malaysia
+2893,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",106128.220000,"Crypto Exchange","Arjun Reddy",Low,Malaysia
+3329,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",117486.957500,"Online Casino","Arjun Reddy",Low,Malaysia
+3228,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100061.301818,"Crypto Exchange","Ananya Nair",Low,Thailand
+4247,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Ananya Nair",Low,Thailand
+3402,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",102305.270000,"Online Casino","Ananya Nair",Low,Thailand
+3406,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",117822.096364,"Shell Electronics","Ananya Nair",Low,Thailand
+3410,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98439.779231,"Crypto Exchange","Ananya Sharma",Low,India
+4248,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Ananya Sharma",Low,India
+5661,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",102313.386667,"Crypto Exchange","Ananya Sharma",Low,India
+4283,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",111803.340000,"Luxury Retail","Ananya Sharma",Low,India
+5660,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",113478.097857,"Luxury Retail","Ananya Sharma",Low,India
+3334,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102448.354545,"Shell Electronics","Ananya Sharma",Low,India
+3355,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99011.427778,"Online Casino","Ananya Sharma",Low,India
+5662,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104993.280000,"Online Casino","Ananya Sharma",Low,India
+3168,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",90902.066364,"Online Casino","Sai Reddy",Low,India
+4249,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Sai Reddy",Low,India
+4652,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",94885.468000,"Online Casino","Sai Reddy",Low,India
+4648,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",115050.793333,"Luxury Retail","Sai Reddy",Low,India
+3223,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95152.533333,"Shell Electronics","Sai Reddy",Low,India
+3221,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",108811.602857,"Online Casino","Madhav Sharma",Low,Thailand
+4250,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Madhav Sharma",Low,Thailand
+2905,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",87063.576667,"Shell Electronics","Madhav Sharma",Low,Thailand
+3194,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103893.855714,"Crypto Exchange","Madhav Sharma",Low,Thailand
+128,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Priya Joshi",Low,Thailand
+4252,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Priya Joshi",Low,Thailand
+2277,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",105159.980000,"Online Casino","Priya Joshi",Low,Thailand
+2920,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99159.776667,"Crypto Exchange","Priya Joshi",Low,Thailand
+2482,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",107102.480000,"Shell Electronics","Priya Joshi",Low,Thailand
+3286,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104897.066429,"Crypto Exchange","Sai Iyer",Low,India
+4253,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Sai Iyer",Low,India
+4678,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104897.066429,"Crypto Exchange","Sai Iyer",Low,India
+1806,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",80757.986667,"Online Casino","Sai Iyer",Low,India
+4674,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",80757.986667,"Online Casino","Sai Iyer",Low,India
+2797,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98423.443333,"Shell Electronics","Sai Iyer",Low,India
+4679,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",106696.782000,"Luxury Retail","Sai Iyer",Low,India
+2315,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95998.354286,"Crypto Exchange","Sai Iyer",Low,Malaysia
+4254,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Crypto Exchange","Sai Iyer",Low,Malaysia
+2800,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92315.865556,"Shell Electronics","Sai Iyer",Low,Malaysia
+2523,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",93751.556667,"Online Casino","Sai Iyer",Low,Malaysia
+2552,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",105433.427143,"Online Casino","Aarav Das",Low,Malaysia
+4255,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Aarav Das",Low,Malaysia
+3257,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",117643.062727,"Crypto Exchange","Aarav Das",Low,Malaysia
+2629,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99023.560000,"Shell Electronics","Aarav Das",Low,Malaysia
+3301,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",85665.222857,"Online Casino","Sai Patel",Medium,India
+4256,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Online Casino","Sai Patel",Medium,India
+4694,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",85665.222857,"Online Casino","Sai Patel",Medium,India
+4695,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",105671.381429,"Luxury Retail","Sai Patel",Medium,India
+3414,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88797.627500,"Shell Electronics","Sai Patel",Medium,India
+3290,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91360.230000,"Crypto Exchange","Sai Patel",Medium,India
+4696,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",91360.230000,"Crypto Exchange","Sai Patel",Medium,India
+133,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Vivaan Sharma",Low,Malaysia
+4257,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135000.000000,"Offshore Gambling","Vivaan Sharma",Low,Malaysia
+2861,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105707.160000,"Crypto Exchange","Vivaan Sharma",Low,Malaysia
+3281,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",110103.136667,"Shell Electronics","Vivaan Sharma",Low,Malaysia
+2983,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",96027.163750,"Online Casino","Vivaan Sharma",Low,Malaysia
+3349,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",96939.528889,"Online Casino","Priya Ramanujan",Low,Thailand
+3294,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",115168.678667,"Shell Electronics","Priya Ramanujan",Low,Thailand
+3109,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",96827.794118,"Crypto Exchange","Priya Ramanujan",Low,Thailand
+4275,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",124759.610000,"Grocery Store","Madhav Sharma",Medium,Malaysia
+3363,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98610.863529,"Shell Electronics","Madhav Sharma",Medium,Malaysia
+3381,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94815.659091,"Crypto Exchange","Madhav Sharma",Medium,Malaysia
+2625,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",113597.021250,"Online Casino","Madhav Sharma",Medium,Malaysia
+3136,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99512.529333,"Online Casino","Sai Das",Low,India
+5797,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99512.529333,"Online Casino","Sai Das",Low,India
+3183,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91379.613000,"Crypto Exchange","Sai Das",Low,India
+5795,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95467.156667,"Crypto Exchange","Sai Das",Low,India
+5798,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",115150.602857,"Luxury Retail","Sai Das",Low,India
+3405,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",106200.323750,"Shell Electronics","Sai Das",Low,India
+4268,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",144915.630000,"Gas Station","Sai Das",Low,India
+3117,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108456.870000,"Shell Electronics","Sai Ramanujan",Low,Malaysia
+2775,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",102041.517500,"Online Casino","Sai Ramanujan",Low,Malaysia
+3303,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",87548.566000,"Crypto Exchange","Sai Ramanujan",Low,Malaysia
+3043,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",86609.972500,"Shell Electronics","Aditya Sharma",Low,Thailand
+3114,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99246.152778,"Crypto Exchange","Aditya Sharma",Low,Thailand
+1948,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",111498.584000,"Online Casino","Aditya Sharma",Low,Thailand
+3317,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104264.817895,"Crypto Exchange","Priya Patel",Medium,Singapore
+3409,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",95727.208824,"Online Casino","Priya Patel",Medium,Singapore
+3260,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103294.547857,"Shell Electronics","Priya Patel",Medium,Singapore
+3413,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104534.349167,"Crypto Exchange","Vivaan Sharma",Medium,India
+5109,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104534.349167,"Crypto Exchange","Vivaan Sharma",Medium,India
+3325,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93925.385000,"Shell Electronics","Vivaan Sharma",Medium,India
+3369,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",101762.762727,"Online Casino","Vivaan Sharma",Medium,India
+5111,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",101762.762727,"Online Casino","Vivaan Sharma",Medium,India
+5110,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",96283.556364,"Luxury Retail","Vivaan Sharma",Medium,India
+3292,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",104023.981250,"Online Casino","Sai Verma",Medium,India
+4750,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",111589.570000,"Online Casino","Sai Verma",Medium,India
+3094,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",90486.311000,"Crypto Exchange","Sai Verma",Medium,India
+4748,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",94911.067778,"Crypto Exchange","Sai Verma",Medium,India
+4749,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",113019.494286,"Luxury Retail","Sai Verma",Medium,India
+3076,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",86665.563333,"Shell Electronics","Sai Verma",Medium,India
+3350,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95209.492941,"Shell Electronics","Priya Mehta",Low,Thailand
+3022,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104666.603333,"Crypto Exchange","Priya Mehta",Low,Thailand
+3273,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",107140.410000,"Online Casino","Priya Mehta",Low,Thailand
+4298,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",141574.130000,"Grocery Store","Priya Mehta",Low,Thailand
+3342,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",97916.472222,"Online Casino","Arjun Patel",Low,Singapore
+3384,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",118199.602000,"Crypto Exchange","Arjun Patel",Low,Singapore
+3143,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93931.084000,"Shell Electronics","Arjun Patel",Low,Singapore
+2477,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",111811.866667,"Online Casino","Sai Verma",Medium,Malaysia
+3348,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108180.250000,"Crypto Exchange","Sai Verma",Medium,Malaysia
+3404,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",146050.140000,"Shell Electronics","Sai Verma",Medium,Malaysia
+4258,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",123058.360000,"Luxury Retail","Sai Verma",Medium,Malaysia
+48,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",142980.060000,"Online Casino","Sai Verma",Medium,Malaysia
+2695,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",61678.673333,"Online Casino","Aditya Ramanujan",High,India
+4756,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",65249.135000,"Online Casino","Aditya Ramanujan",High,India
+3172,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108697.096667,"Crypto Exchange","Aditya Ramanujan",High,India
+4755,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108697.096667,"Crypto Exchange","Aditya Ramanujan",High,India
+4754,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",57434.980000,"Luxury Retail","Aditya Ramanujan",High,India
+1359,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",125669.505000,"Shell Electronics","Aditya Ramanujan",High,India
+2701,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",117429.272143,"Crypto Exchange","Aarav Verma",Low,India
+5707,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",117429.272143,"Crypto Exchange","Aarav Verma",Low,India
+5710,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",105513.032727,"Luxury Retail","Aarav Verma",Low,India
+2827,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95606.680833,"Shell Electronics","Aarav Verma",Low,India
+3341,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",105026.494118,"Online Casino","Aarav Verma",Low,India
+5708,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108452.508750,"Online Casino","Aarav Verma",Low,India
+2666,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91219.354000,"Shell Electronics","Riya Reddy",Medium,Thailand
+1331,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",86396.432500,"Crypto Exchange","Riya Reddy",Medium,Thailand
+3336,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",93346.750000,"Online Casino","Riya Reddy",Medium,Thailand
+2314,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103974.823000,"Shell Electronics","Aarav Reddy",Medium,India
+4824,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",91428.013000,"Luxury Retail","Aarav Reddy",Medium,India
+2946,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101769.841333,"Crypto Exchange","Aarav Reddy",Medium,India
+4823,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",105247.340714,"Crypto Exchange","Aarav Reddy",Medium,India
+2824,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",98873.973333,"Online Casino","Aarav Reddy",Medium,India
+4819,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",112089.400000,"Online Casino","Aarav Reddy",Medium,India
+47,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",139296.130000,"Luxury Retail","Aarav Reddy",Medium,India
+3126,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93035.523333,"Crypto Exchange","Sai Nair",Low,India
+4832,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",114282.560000,"Crypto Exchange","Sai Nair",Low,India
+3279,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99624.080000,"Online Casino","Sai Nair",Low,India
+4833,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",106541.975714,"Online Casino","Sai Nair",Low,India
+3383,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",117386.345714,"Shell Electronics","Sai Nair",Low,India
+4835,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",117545.515000,"Luxury Retail","Sai Nair",Low,India
+654,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",69205.885000,"Online Casino","Ananya Verma",Low,India
+4837,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",69205.885000,"Online Casino","Ananya Verma",Low,India
+4841,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",124108.866667,"Luxury Retail","Ananya Verma",Low,India
+1333,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",62894.580000,"Crypto Exchange","Ananya Verma",Low,India
+4839,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",62894.580000,"Crypto Exchange","Ananya Verma",Low,India
+3320,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93152.122500,"Shell Electronics","Ananya Verma",Low,India
+49,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",145270.720000,"Gas Station","Ananya Verma",Low,India
+3390,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101537.714000,"Crypto Exchange","Vivaan Iyer",Low,Singapore
+3272,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",107790.952000,"Online Casino","Vivaan Iyer",Low,Singapore
+3388,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116793.261818,"Shell Electronics","Vivaan Iyer",Low,Singapore
+3374,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",113326.239444,"Shell Electronics","Vivaan Verma",Medium,Singapore
+3242,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88336.242000,"Crypto Exchange","Vivaan Verma",Medium,Singapore
+3358,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",124896.254000,"Online Casino","Vivaan Verma",Medium,Singapore
+4284,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",144476.500000,"Crypto Exchange","Vivaan Verma",Medium,Singapore
+2834,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92223.175556,"Crypto Exchange","Sai Verma",Medium,Singapore
+3026,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",86057.594615,"Online Casino","Sai Verma",Medium,Singapore
+3207,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89486.973000,"Shell Electronics","Sai Verma",Medium,Singapore
+4276,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",100760.060000,"Gas Station","Ananya Joshi",Low,Singapore
+2965,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104487.625000,"Shell Electronics","Ananya Joshi",Low,Singapore
+3044,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99296.840000,"Online Casino","Ananya Joshi",Low,Singapore
+3398,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",127612.170000,"Crypto Exchange","Ananya Joshi",Low,Singapore
+4280,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",120287.450000,"Grocery Store","Vivaan Reddy",Low,Singapore
+3357,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116503.639000,"Crypto Exchange","Vivaan Reddy",Low,Singapore
+2538,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",90118.180000,"Shell Electronics","Vivaan Reddy",Low,Singapore
+3088,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",86978.126364,"Online Casino","Vivaan Reddy",Low,Singapore
+4299,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",106437.640000,"Online Casino","Vivaan Reddy",Low,Singapore
+4261,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",129228.540000,"Crypto Exchange","Vivaan Reddy",Low,Singapore
+2767,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",106781.900000,"Online Casino","Sai Joshi",Low,Singapore
+2606,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102646.892000,"Shell Electronics","Sai Joshi",Low,Singapore
+2713,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",97620.792000,"Crypto Exchange","Sai Joshi",Low,Singapore
+2978,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88555.882667,"Shell Electronics","Priya Das",Low,India
+3403,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",106797.954545,"Crypto Exchange","Priya Das",Low,India
+4863,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",106797.954545,"Crypto Exchange","Priya Das",Low,India
+2674,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99057.038889,"Online Casino","Priya Das",Low,India
+4858,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99057.038889,"Online Casino","Priya Das",Low,India
+4865,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",128735.847500,"Luxury Retail","Priya Das",Low,India
+4270,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",131657.000000,"Grocery Store","Aarav Patel",Medium,India
+4281,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",4480.660000,"Gas Station","Aarav Patel",Medium,India
+3020,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",118791.032857,"Shell Electronics","Aarav Patel",Medium,India
+4891,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",83510.324615,"Luxury Retail","Aarav Patel",Medium,India
+3192,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",108111.941250,"Online Casino","Aarav Patel",Medium,India
+4892,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108111.941250,"Online Casino","Aarav Patel",Medium,India
+3407,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93045.189167,"Crypto Exchange","Aarav Patel",Medium,India
+4898,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",93045.189167,"Crypto Exchange","Aarav Patel",Medium,India
+4908,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",98022.755000,"Luxury Retail","Arjun Patel",Medium,India
+3418,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99436.258000,"Online Casino","Arjun Patel",Medium,India
+4906,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99436.258000,"Online Casino","Arjun Patel",Medium,India
+2690,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",106569.450000,"Shell Electronics","Arjun Patel",Medium,India
+3284,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92841.830000,"Crypto Exchange","Arjun Patel",Medium,India
+4909,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",92841.830000,"Crypto Exchange","Arjun Patel",Medium,India
+3366,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",90012.870000,"Crypto Exchange","Aditya Ramanujan",Low,Thailand
+2614,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",120496.006667,"Online Casino","Aditya Ramanujan",Low,Thailand
+2998,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89977.986667,"Shell Electronics","Aditya Ramanujan",Low,Thailand
+2819,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99814.842500,"Shell Electronics","Vivaan Verma",Low,India
+2950,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",84968.314000,"Crypto Exchange","Vivaan Verma",Low,India
+4922,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",84968.314000,"Crypto Exchange","Vivaan Verma",Low,India
+4921,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",103978.582000,"Luxury Retail","Vivaan Verma",Low,India
+2990,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",85839.532500,"Online Casino","Vivaan Verma",Low,India
+4923,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",85839.532500,"Online Casino","Vivaan Verma",Low,India
+2707,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88228.580000,"Crypto Exchange","Ananya Iyer",Medium,Singapore
+3318,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",83330.420000,"Shell Electronics","Ananya Iyer",Medium,Singapore
+2926,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",97008.311429,"Online Casino","Ananya Iyer",Medium,Singapore
+3056,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",107650.537500,"Online Casino","Vivaan Mehta",Medium,India
+4933,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",107650.537500,"Online Casino","Vivaan Mehta",Medium,India
+4939,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99330.812857,"Luxury Retail","Vivaan Mehta",Medium,India
+3196,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104765.018000,"Crypto Exchange","Vivaan Mehta",Medium,India
+4937,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104765.018000,"Crypto Exchange","Vivaan Mehta",Medium,India
+2801,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",126182.893333,"Shell Electronics","Vivaan Mehta",Medium,India
+4272,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",141104.830000,"Grocery Store","Vivaan Mehta",Medium,India
+4958,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",96689.592727,"Luxury Retail","Aarav Sharma",Medium,India
+3108,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95499.984444,"Shell Electronics","Aarav Sharma",Medium,India
+3255,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99420.162500,"Crypto Exchange","Aarav Sharma",Medium,India
+4956,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99420.162500,"Crypto Exchange","Aarav Sharma",Medium,India
+2612,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",108666.902500,"Online Casino","Aarav Sharma",Medium,India
+4957,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108666.902500,"Online Casino","Aarav Sharma",Medium,India
+3208,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",100012.290000,"Online Casino","Arjun Sharma",High,India
+4984,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100012.290000,"Online Casino","Arjun Sharma",High,India
+4987,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",127131.679091,"Luxury Retail","Arjun Sharma",High,India
+2930,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101663.410000,"Shell Electronics","Arjun Sharma",High,India
+3310,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103388.688571,"Crypto Exchange","Arjun Sharma",High,India
+4983,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",103388.688571,"Crypto Exchange","Arjun Sharma",High,India
+4294,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",135647.950000,"Grocery Store","Riya Joshi",Low,India
+3339,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100632.986364,"Crypto Exchange","Riya Joshi",Low,India
+5632,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100632.986364,"Crypto Exchange","Riya Joshi",Low,India
+5630,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95709.659375,"Luxury Retail","Riya Joshi",Low,India
+3343,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",117722.399444,"Online Casino","Riya Joshi",Low,India
+5633,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",117722.399444,"Online Casino","Riya Joshi",Low,India
+3356,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93309.174000,"Shell Electronics","Riya Joshi",Low,India
+3308,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",103179.500000,"Online Casino","Aditya Ramanujan",Low,Singapore
+3219,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104900.641111,"Crypto Exchange","Aditya Ramanujan",Low,Singapore
+3248,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88456.548750,"Shell Electronics","Aditya Ramanujan",Low,Singapore
+3236,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91872.692174,"Shell Electronics","Ananya Patel",Low,Singapore
+3079,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99953.550667,"Online Casino","Ananya Patel",Low,Singapore
+3073,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101601.458750,"Crypto Exchange","Ananya Patel",Low,Singapore
+4264,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",106831.020000,"Gas Station","Ananya Patel",Low,Singapore
+3058,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108947.971250,"Crypto Exchange","Madhav Verma",Medium,India
+5044,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",106244.943333,"Luxury Retail","Madhav Verma",Medium,India
+1659,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",82104.913333,"Shell Electronics","Madhav Verma",Medium,India
+3287,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",104778.994286,"Online Casino","Madhav Verma",Medium,India
+5046,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104778.994286,"Online Casino","Madhav Verma",Medium,India
+5045,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",116929.302857,"Crypto Exchange","Madhav Verma",Medium,India
+3112,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",106052.786000,"Crypto Exchange","Madhav Iyer",Low,Malaysia
+3312,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108626.516471,"Shell Electronics","Madhav Iyer",Low,Malaysia
+3276,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",88899.383846,"Online Casino","Madhav Iyer",Low,Malaysia
+3371,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",101658.116000,"Online Casino","Arjun Iyer",Low,India
+5073,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",101658.116000,"Online Casino","Arjun Iyer",Low,India
+1861,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",110386.010000,"Crypto Exchange","Arjun Iyer",Low,India
+5067,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",110386.010000,"Crypto Exchange","Arjun Iyer",Low,India
+5072,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",102056.990000,"Luxury Retail","Arjun Iyer",Low,India
+2581,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",87192.358571,"Shell Electronics","Arjun Iyer",Low,India
+2354,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101506.863333,"Crypto Exchange","Priya Joshi",Low,Singapore
+2952,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",100365.663750,"Online Casino","Priya Joshi",Low,Singapore
+3249,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",83026.318889,"Shell Electronics","Priya Joshi",Low,Singapore
+1978,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102530.987500,"Shell Electronics","Ananya Mehta",Medium,Malaysia
+2556,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100150.696000,"Crypto Exchange","Ananya Mehta",Medium,Malaysia
+3171,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",123457.835000,"Online Casino","Ananya Mehta",Medium,Malaysia
+2811,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98538.200000,"Shell Electronics","Ananya Mehta",High,India
+3296,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",129899.287500,"Crypto Exchange","Ananya Mehta",High,India
+5087,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",129899.287500,"Crypto Exchange","Ananya Mehta",High,India
+5086,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100417.760000,"Luxury Retail","Ananya Mehta",High,India
+2859,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",112134.603333,"Online Casino","Ananya Mehta",High,India
+5082,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",112134.603333,"Online Casino","Ananya Mehta",High,India
+2735,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",96231.543333,"Shell Electronics","Ananya Verma",Medium,Singapore
+1862,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",122152.480000,"Online Casino","Ananya Verma",Medium,Singapore
+1273,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92883.086667,"Crypto Exchange","Ananya Verma",Medium,Singapore
+3333,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",84836.380000,"Shell Electronics","Sai Ramanujan",Low,Thailand
+3391,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",89678.000833,"Online Casino","Sai Ramanujan",Low,Thailand
+3324,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102015.503750,"Crypto Exchange","Sai Ramanujan",Low,Thailand
+4295,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",145016.480000,"Crypto Exchange","Sai Ramanujan",Low,Thailand
+3380,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",89940.222857,"Online Casino","Vivaan Nair",Low,Thailand
+3030,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103378.336667,"Crypto Exchange","Vivaan Nair",Low,Thailand
+3326,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91638.513636,"Shell Electronics","Vivaan Nair",Low,Thailand
+4267,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",130320.630000,"Gas Station","Riya Verma",Low,Thailand
+2432,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",107145.148571,"Crypto Exchange","Riya Verma",Low,Thailand
+3177,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",113524.361250,"Online Casino","Riya Verma",Low,Thailand
+3189,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104738.272000,"Shell Electronics","Riya Verma",Low,Thailand
+3010,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104650.485000,"Shell Electronics","Priya Nair",High,Thailand
+3377,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95150.550000,"Crypto Exchange","Priya Nair",High,Thailand
+2381,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",90317.741667,"Online Casino","Priya Nair",High,Thailand
+3065,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",60386.728000,"Shell Electronics","Arjun Joshi",Medium,Singapore
+3247,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",98733.351667,"Online Casino","Arjun Joshi",Medium,Singapore
+3197,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105103.645000,"Crypto Exchange","Arjun Joshi",Medium,Singapore
+3132,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92963.768333,"Crypto Exchange","Aarav Patel",Low,India
+5136,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",92963.768333,"Crypto Exchange","Aarav Patel",Low,India
+5139,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",115507.299000,"Luxury Retail","Aarav Patel",Low,India
+3293,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93689.020000,"Shell Electronics","Aarav Patel",Low,India
+3025,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",103897.975833,"Online Casino","Aarav Patel",Low,India
+5137,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",103897.975833,"Online Casino","Aarav Patel",Low,India
+3156,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",110587.809231,"Shell Electronics","Vivaan Joshi",Medium,India
+3327,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100576.757500,"Crypto Exchange","Vivaan Joshi",Medium,India
+5799,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104910.264545,"Crypto Exchange","Vivaan Joshi",Medium,India
+3274,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",105531.625000,"Online Casino","Vivaan Joshi",Medium,India
+5803,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",105531.625000,"Online Casino","Vivaan Joshi",Medium,India
+5800,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",96496.278000,"Luxury Retail","Vivaan Joshi",Medium,India
+3062,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91109.756000,"Crypto Exchange","Arjun Sharma",Low,India
+5189,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",91109.756000,"Crypto Exchange","Arjun Sharma",Low,India
+1425,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105104.830000,"Shell Electronics","Arjun Sharma",Low,India
+3417,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",100500.665000,"Online Casino","Arjun Sharma",Low,India
+5191,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",115782.736667,"Online Casino","Arjun Sharma",Low,India
+5190,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",92746.526667,"Luxury Retail","Arjun Sharma",Low,India
+5229,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95424.199231,"Luxury Retail","Rahul Iyer",Low,India
+2997,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94348.216923,"Crypto Exchange","Rahul Iyer",Low,India
+2849,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",89580.975714,"Online Casino","Rahul Iyer",Low,India
+5226,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",89580.975714,"Online Casino","Rahul Iyer",Low,India
+5228,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",102024.958182,"Crypto Exchange","Rahul Iyer",Low,India
+3354,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",77723.671000,"Shell Electronics","Rahul Iyer",Low,India
+3283,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",93851.081111,"Online Casino","Rahul Verma",Medium,Thailand
+3218,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",86142.874286,"Crypto Exchange","Rahul Verma",Medium,Thailand
+3164,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",109975.120000,"Shell Electronics","Rahul Verma",Medium,Thailand
+4277,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",132384.240000,"Online Casino","Rahul Verma",Medium,Thailand
+1446,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",121493.022000,"Crypto Exchange","Riya Verma",Low,India
+5247,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",121493.022000,"Crypto Exchange","Riya Verma",Low,India
+2685,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",124881.121111,"Online Casino","Riya Verma",Low,India
+5252,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",124881.121111,"Online Casino","Riya Verma",Low,India
+2547,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100869.728000,"Shell Electronics","Riya Verma",Low,India
+5250,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",98618.212222,"Luxury Retail","Riya Verma",Low,India
+5274,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95121.797143,"Luxury Retail","Sai Mehta",Low,India
+2647,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",123809.924286,"Crypto Exchange","Sai Mehta",Low,India
+5266,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",123809.924286,"Crypto Exchange","Sai Mehta",Low,India
+3099,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93507.367143,"Shell Electronics","Sai Mehta",Low,India
+3401,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",101539.005556,"Online Casino","Sai Mehta",Low,India
+5273,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",107493.170000,"Online Casino","Sai Mehta",Low,India
+3321,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99412.251000,"Online Casino","Priya Reddy",Medium,India
+5300,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99412.251000,"Online Casino","Priya Reddy",Medium,India
+5294,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",86694.750000,"Luxury Retail","Priya Reddy",Medium,India
+3217,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",85089.961250,"Shell Electronics","Priya Reddy",Medium,India
+3149,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95900.402857,"Crypto Exchange","Priya Reddy",Medium,India
+5297,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95900.402857,"Crypto Exchange","Priya Reddy",Medium,India
+2439,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91281.006250,"Shell Electronics","Aditya Joshi",Low,Malaysia
+4300,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",120107.790000,"Shell Electronics","Aditya Joshi",Low,Malaysia
+3353,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",96264.217143,"Online Casino","Aditya Joshi",Low,Malaysia
+3251,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104896.280000,"Crypto Exchange","Aditya Joshi",Low,Malaysia
+3332,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103881.339231,"Crypto Exchange","Arjun Reddy",High,Malaysia
+2815,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",95451.653636,"Online Casino","Arjun Reddy",High,Malaysia
+3261,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",81470.683000,"Shell Electronics","Arjun Reddy",High,Malaysia
+2823,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",118844.535000,"Shell Electronics","Madhav Das",Low,India
+2875,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",97945.870000,"Online Casino","Madhav Das",Low,India
+5318,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",97945.870000,"Online Casino","Madhav Das",Low,India
+3379,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104027.578333,"Crypto Exchange","Madhav Das",Low,India
+5320,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",114239.576000,"Crypto Exchange","Madhav Das",Low,India
+5319,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108585.513333,"Luxury Retail","Madhav Das",Low,India
+3002,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",126146.260000,"Crypto Exchange","Arjun Ramanujan",Medium,Singapore
+2863,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116792.545714,"Shell Electronics","Arjun Ramanujan",Medium,Singapore
+3387,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",96795.818750,"Online Casino","Arjun Ramanujan",Medium,Singapore
+4301,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",144430.970000,"Grocery Store","Arjun Ramanujan",Medium,Singapore
+2938,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108595.640000,"Shell Electronics","Rahul Das",Low,Thailand
+3162,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",77751.644000,"Crypto Exchange","Rahul Das",Low,Thailand
+3086,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",88147.141667,"Online Casino","Rahul Das",Low,Thailand
+4308,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",76224.110000,"Shell Electronics","Rahul Das",Low,Thailand
+391,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",132930.050000,"Shell Electronics","Rahul Patel",Low,India
+5326,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",133668.200000,"Luxury Retail","Rahul Patel",Low,India
+1272,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",96360.620000,"Online Casino","Rahul Patel",Low,India
+5322,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",96360.620000,"Online Casino","Rahul Patel",Low,India
+2956,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94708.506667,"Crypto Exchange","Rahul Patel",Low,India
+5325,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",94708.506667,"Crypto Exchange","Rahul Patel",Low,India
+2385,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",114938.347500,"Shell Electronics","Arjun Nair",High,Thailand
+2468,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",76095.740000,"Online Casino","Arjun Nair",High,Thailand
+3148,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",97986.290000,"Crypto Exchange","Vivaan Iyer",Low,India
+4291,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",107669.090000,"Crypto Exchange","Vivaan Iyer",Low,India
+5680,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",97986.290000,"Crypto Exchange","Vivaan Iyer",Low,India
+4306,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",15930.730000,"Gas Station","Vivaan Iyer",Low,India
+2796,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89733.352500,"Shell Electronics","Vivaan Iyer",Low,India
+3206,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",88477.216364,"Online Casino","Vivaan Iyer",Low,India
+5681,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",88477.216364,"Online Casino","Vivaan Iyer",Low,India
+5677,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",88988.076364,"Luxury Retail","Vivaan Iyer",Low,India
+5351,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",110931.626667,"Luxury Retail","Ananya Iyer",Low,India
+2245,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",97269.113333,"Shell Electronics","Ananya Iyer",Low,India
+3083,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105762.864286,"Crypto Exchange","Ananya Iyer",Low,India
+5361,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",114589.185000,"Crypto Exchange","Ananya Iyer",Low,India
+2924,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",80210.552500,"Online Casino","Ananya Iyer",Low,India
+5359,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",80210.552500,"Online Casino","Ananya Iyer",Low,India
+1621,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",83496.853333,"Crypto Exchange","Priya Iyer",Medium,Thailand
+1842,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",119298.122500,"Online Casino","Priya Iyer",Medium,Thailand
+1586,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",133792.190000,"Shell Electronics","Priya Iyer",Medium,Thailand
+901,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",83586.010000,"Online Casino","Madhav Patel",Low,Singapore
+910,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",111232.520000,"Crypto Exchange","Madhav Patel",Low,Singapore
+3199,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",80566.245000,"Shell Electronics","Madhav Patel",Low,Singapore
+2721,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99927.580000,"Crypto Exchange","Riya Das",Low,India
+5367,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99927.580000,"Crypto Exchange","Riya Das",Low,India
+2511,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99805.780000,"Shell Electronics","Riya Das",Low,India
+2281,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",140792.545000,"Online Casino","Riya Das",Low,India
+5365,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",140792.545000,"Online Casino","Riya Das",Low,India
+5364,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",91274.610000,"Luxury Retail","Riya Das",Low,India
+3331,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",107664.862857,"Shell Electronics","Aarav Reddy",Low,Thailand
+2697,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",101176.922000,"Online Casino","Aarav Reddy",Low,Thailand
+3008,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95680.091111,"Crypto Exchange","Aarav Reddy",Low,Thailand
+3316,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116511.469000,"Crypto Exchange","Ananya Reddy",High,India
+5500,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",116511.469000,"Crypto Exchange","Ananya Reddy",High,India
+3253,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",94010.392000,"Online Casino","Ananya Reddy",High,India
+5497,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",97811.142500,"Luxury Retail","Ananya Reddy",High,India
+5501,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",98348.227778,"Online Casino","Ananya Reddy",High,India
+3340,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104602.498333,"Shell Electronics","Ananya Reddy",High,India
+3372,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",106404.230000,"Shell Electronics","Aditya Nair",Low,India
+5395,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95281.017778,"Luxury Retail","Aditya Nair",Low,India
+2915,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",83972.387500,"Crypto Exchange","Aditya Nair",Low,India
+5391,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95202.610000,"Crypto Exchange","Aditya Nair",Low,India
+2240,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135189.403333,"Online Casino","Aditya Nair",Low,India
+5392,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",135189.403333,"Online Casino","Aditya Nair",Low,India
+3139,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",113696.815000,"Shell Electronics","Aditya Joshi",Low,India
+5647,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95863.724000,"Luxury Retail","Aditya Joshi",Low,India
+3216,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",82567.222000,"Crypto Exchange","Aditya Joshi",Low,India
+5646,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",89942.917500,"Crypto Exchange","Aditya Joshi",Low,India
+2793,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",118902.146667,"Online Casino","Aditya Joshi",Low,India
+5642,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",118902.146667,"Online Casino","Aditya Joshi",Low,India
+2005,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",105888.028333,"Online Casino","Sai Reddy",Medium,Malaysia
+4296,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",144131.400000,"Online Casino","Sai Reddy",Medium,Malaysia
+3224,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101935.260000,"Crypto Exchange","Sai Reddy",Medium,Malaysia
+2870,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95000.206000,"Shell Electronics","Sai Reddy",Medium,Malaysia
+4274,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",94275.410000,"Gas Station","Sai Reddy",Medium,Malaysia
+2869,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",104328.031667,"Online Casino","Sai Ramanujan",Low,India
+5424,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",114538.220000,"Online Casino","Sai Ramanujan",Low,India
+5427,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",120493.628333,"Luxury Retail","Sai Ramanujan",Low,India
+3386,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",85857.492222,"Crypto Exchange","Sai Ramanujan",Low,India
+5426,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95484.764286,"Crypto Exchange","Sai Ramanujan",Low,India
+2959,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105241.471250,"Shell Electronics","Sai Ramanujan",Low,India
+3180,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98679.620000,"Shell Electronics","Priya Patel",Medium,Malaysia
+4288,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",121889.590000,"Shell Electronics","Priya Patel",Medium,Malaysia
+4289,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",102149.900000,"Luxury Retail","Priya Patel",Medium,Malaysia
+3167,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",98254.824000,"Online Casino","Priya Patel",Medium,Malaysia
+2421,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104902.020000,"Crypto Exchange","Priya Patel",Medium,Malaysia
+2798,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",97438.050000,"Shell Electronics","Riya Nair",Medium,India
+2435,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",100941.495000,"Online Casino","Riya Nair",Medium,India
+5435,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100941.495000,"Online Casino","Riya Nair",Medium,India
+5430,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",93256.250000,"Luxury Retail","Riya Nair",Medium,India
+2047,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",140711.370000,"Crypto Exchange","Riya Nair",Medium,India
+5433,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",140711.370000,"Crypto Exchange","Riya Nair",Medium,India
+2853,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91772.290000,"Shell Electronics","Vivaan Verma",Medium,Malaysia
+1792,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99632.531429,"Crypto Exchange","Vivaan Verma",Medium,Malaysia
+2068,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",97901.136667,"Online Casino","Vivaan Verma",Medium,Malaysia
+2627,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",96811.821429,"Online Casino","Sai Verma",Low,Thailand
+3360,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",113629.964000,"Crypto Exchange","Sai Verma",Low,Thailand
+3024,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94778.131429,"Shell Electronics","Sai Verma",Low,Thailand
+824,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",72128.830000,"Shell Electronics","Aditya Iyer",Low,Singapore
+3084,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",145373.780000,"Crypto Exchange","Aditya Iyer",Low,Singapore
+2098,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",112500.815000,"Crypto Exchange","Priya Nair",Low,Thailand
+2012,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108088.356667,"Shell Electronics","Priya Nair",Low,Thailand
+3237,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",62306.720000,"Online Casino","Priya Nair",Low,Thailand
+1408,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",90387.343333,"Online Casino","Madhav Mehta",Medium,India
+5442,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",90387.343333,"Online Casino","Madhav Mehta",Medium,India
+2970,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",120458.845000,"Shell Electronics","Madhav Mehta",Medium,India
+3158,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103367.853333,"Crypto Exchange","Madhav Mehta",Medium,India
+5448,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",103367.853333,"Crypto Exchange","Madhav Mehta",Medium,India
+5447,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100224.950000,"Luxury Retail","Madhav Mehta",Medium,India
+3159,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",124192.956000,"Shell Electronics","Sai Sharma",Medium,India
+3399,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100045.190000,"Crypto Exchange","Sai Sharma",Medium,India
+5608,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100045.190000,"Crypto Exchange","Sai Sharma",Medium,India
+5613,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",80404.000000,"Luxury Retail","Sai Sharma",Medium,India
+2739,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",86671.086667,"Online Casino","Sai Sharma",Medium,India
+5612,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",93875.586000,"Online Casino","Sai Sharma",Medium,India
+5684,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",113534.799091,"Luxury Retail","Priya Patel",High,India
+3067,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89919.466000,"Crypto Exchange","Priya Patel",High,India
+5682,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",89919.466000,"Crypto Exchange","Priya Patel",High,India
+2195,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",73997.750000,"Shell Electronics","Priya Patel",High,India
+3277,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",123914.456667,"Online Casino","Vivaan Nair",Low,India
+5472,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",123914.456667,"Online Casino","Vivaan Nair",Low,India
+5469,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",141830.610000,"Luxury Retail","Vivaan Nair",Low,India
+1234,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94972.400000,"Crypto Exchange","Vivaan Nair",Low,India
+5470,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",94972.400000,"Crypto Exchange","Vivaan Nair",Low,India
+3271,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",145743.905000,"Shell Electronics","Vivaan Nair",Low,India
+1850,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95098.875000,"Shell Electronics","Madhav Mehta",High,Thailand
+2124,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89472.550000,"Crypto Exchange","Madhav Mehta",High,Thailand
+3411,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",106395.900000,"Online Casino","Madhav Mehta",High,Thailand
+2623,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",115264.470000,"Crypto Exchange","Ananya Joshi",Medium,Thailand
+2743,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",82343.253333,"Online Casino","Ananya Joshi",Medium,Thailand
+3181,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98161.565000,"Shell Electronics","Ananya Joshi",Medium,Thailand
+1748,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102901.168571,"Shell Electronics","Rahul Reddy",Low,Malaysia
+3288,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",101410.473750,"Online Casino","Rahul Reddy",Low,Malaysia
+3188,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94560.148571,"Crypto Exchange","Rahul Reddy",Low,Malaysia
+2992,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",85948.861429,"Crypto Exchange","Madhav Patel",Low,India
+5486,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",85948.861429,"Crypto Exchange","Madhav Patel",Low,India
+1811,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",86894.182000,"Online Casino","Madhav Patel",Low,India
+5485,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",95106.762500,"Online Casino","Madhav Patel",Low,India
+3367,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104925.330000,"Shell Electronics","Madhav Patel",Low,India
+5487,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",93900.802500,"Luxury Retail","Madhav Patel",Low,India
+2605,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",106834.766667,"Crypto Exchange","Arjun Das",Medium,Singapore
+3103,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",124801.220000,"Online Casino","Arjun Das",Medium,Singapore
+3266,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",70523.530000,"Shell Electronics","Arjun Das",Medium,Singapore
+3322,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",106869.115000,"Online Casino","Riya Reddy",Low,Thailand
+3133,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92689.771250,"Crypto Exchange","Riya Reddy",Low,Thailand
+2183,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",70345.142500,"Crypto Exchange","Vivaan Sharma",Medium,Thailand
+2768,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",95783.500000,"Online Casino","Vivaan Sharma",Medium,Thailand
+3412,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102257.756667,"Shell Electronics","Vivaan Sharma",Medium,Thailand
+3061,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",115357.950000,"Crypto Exchange","Arjun Mehta",Low,Thailand
+2475,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",73721.276250,"Online Casino","Arjun Mehta",Low,Thailand
+1839,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93320.505000,"Shell Electronics","Arjun Mehta",Low,Thailand
+3028,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",111411.520000,"Online Casino","Rahul Iyer",High,India
+5517,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",111411.520000,"Online Casino","Rahul Iyer",High,India
+5518,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",105522.907143,"Luxury Retail","Rahul Iyer",High,India
+3238,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",97801.452500,"Shell Electronics","Rahul Iyer",High,India
+2826,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98572.202500,"Crypto Exchange","Rahul Iyer",High,India
+5514,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",98572.202500,"Crypto Exchange","Rahul Iyer",High,India
+5826,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99184.998750,"Luxury Retail","Sai Joshi",Medium,India
+2657,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116458.746000,"Shell Electronics","Sai Joshi",Medium,India
+2430,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",91622.782500,"Online Casino","Sai Joshi",Medium,India
+5827,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",91622.782500,"Online Casino","Sai Joshi",Medium,India
+3166,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",108103.530000,"Crypto Exchange","Sai Joshi",Medium,India
+5829,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108103.530000,"Crypto Exchange","Sai Joshi",Medium,India
+2966,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89855.383750,"Shell Electronics","Madhav Nair",Low,Singapore
+3057,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",111838.800000,"Online Casino","Madhav Nair",Low,Singapore
+2474,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95971.496667,"Crypto Exchange","Madhav Nair",Low,Singapore
+5538,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",98523.847143,"Luxury Retail","Riya Sharma",Medium,India
+2677,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104441.200000,"Crypto Exchange","Riya Sharma",Medium,India
+5539,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",104441.200000,"Crypto Exchange","Riya Sharma",Medium,India
+3091,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",74093.486667,"Online Casino","Riya Sharma",Medium,India
+5540,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",74093.486667,"Online Casino","Riya Sharma",Medium,India
+3299,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89169.787500,"Shell Electronics","Riya Sharma",Medium,India
+2683,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",92633.073333,"Online Casino","Rahul Verma",High,Malaysia
+1327,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",81033.706667,"Crypto Exchange","Priya Sharma",Low,India
+5544,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",81033.706667,"Crypto Exchange","Priya Sharma",Low,India
+2643,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",88357.047500,"Online Casino","Priya Sharma",Low,India
+5547,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",88357.047500,"Online Casino","Priya Sharma",Low,India
+3072,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103228.390000,"Shell Electronics","Priya Sharma",Low,India
+1093,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",100242.385000,"Online Casino","Aarav Mehta",Medium,India
+5553,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100242.385000,"Online Casino","Aarav Mehta",Medium,India
+1157,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",87754.545000,"Shell Electronics","Aarav Mehta",Medium,India
+5552,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",89286.850000,"Luxury Retail","Aarav Mehta",Medium,India
+3385,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",78723.697500,"Crypto Exchange","Aarav Mehta",Medium,India
+5555,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",87471.286667,"Crypto Exchange","Aarav Mehta",Medium,India
+3298,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103126.881250,"Crypto Exchange","Riya Mehta",High,India
+5568,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",103126.881250,"Crypto Exchange","Riya Mehta",High,India
+2689,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",135108.930000,"Online Casino","Riya Mehta",High,India
+5564,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",135108.930000,"Online Casino","Riya Mehta",High,India
+3304,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93878.446667,"Shell Electronics","Riya Mehta",High,India
+4265,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",128015.000000,"Online Casino","Riya Mehta",High,India
+5565,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",63127.810000,"Luxury Retail","Riya Mehta",High,India
+3097,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",107489.600000,"Online Casino","Arjun Verma",Low,India
+5585,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",107489.600000,"Online Casino","Arjun Verma",Low,India
+2975,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102156.291250,"Crypto Exchange","Arjun Verma",Low,India
+5587,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",102156.291250,"Crypto Exchange","Arjun Verma",Low,India
+5586,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",107948.720000,"Luxury Retail","Arjun Verma",Low,India
+3351,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101454.930000,"Shell Electronics","Arjun Verma",Low,India
+1220,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",143624.710000,"Shell Electronics","Rahul Nair",High,Thailand
+3263,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",93644.241667,"Online Casino","Madhav Reddy",High,India
+5599,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",114555.905000,"Online Casino","Madhav Reddy",High,India
+3131,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",86614.155000,"Shell Electronics","Madhav Reddy",High,India
+5603,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",69835.237500,"Luxury Retail","Madhav Reddy",High,India
+2814,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",107141.597500,"Crypto Exchange","Madhav Reddy",High,India
+5602,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",107141.597500,"Crypto Exchange","Madhav Reddy",High,India
+3389,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",116485.285000,"Online Casino","Riya Mehta",Low,Thailand
+4304,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",131403.950000,"Online Casino","Riya Mehta",Low,Thailand
+2876,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98855.680000,"Shell Electronics","Riya Mehta",Low,Thailand
+3256,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",95751.466000,"Crypto Exchange","Riya Mehta",Low,Thailand
+4290,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",139435.280000,"Crypto Exchange","Riya Joshi",Low,India
+5639,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",94081.447500,"Luxury Retail","Aditya Reddy",Medium,India
+3364,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",71844.410000,"Online Casino","Aditya Reddy",Medium,India
+5640,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",71844.410000,"Online Casino","Aditya Reddy",Medium,India
+1614,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",133845.190000,"Shell Electronics","Aditya Reddy",Medium,India
+1780,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",131739.700000,"Crypto Exchange","Aditya Reddy",Medium,India
+5637,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",131739.700000,"Crypto Exchange","Aditya Reddy",Medium,India
+4307,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",103860.170000,"Grocery Store","Aarav Nair",Medium,Thailand
+2813,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",107293.427500,"Crypto Exchange","Aarav Nair",Medium,Thailand
+1111,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",119470.080000,"Online Casino","Aarav Nair",Medium,Thailand
+2977,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",90925.895000,"Shell Electronics","Aarav Nair",Medium,Thailand
+3258,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",96878.673333,"Online Casino","Arjun Reddy",Medium,Singapore
+2125,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99949.905000,"Crypto Exchange","Arjun Reddy",Medium,Singapore
+2380,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",75912.367500,"Shell Electronics","Arjun Reddy",Medium,Singapore
+1770,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",110788.050000,"Shell Electronics","Arjun Verma",Low,Thailand
+3267,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",122943.030000,"Online Casino","Arjun Verma",Low,Thailand
+3201,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102351.985000,"Crypto Exchange","Arjun Verma",Low,Thailand
+4286,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",91070.510000,"Grocery Store","Riya Joshi",Medium,Singapore
+3245,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93800.767143,"Shell Electronics","Riya Joshi",Medium,Singapore
+2817,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",101174.697500,"Online Casino","Riya Joshi",Medium,Singapore
+3190,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",83570.270000,"Crypto Exchange","Riya Joshi",Medium,Singapore
+4263,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",126132.980000,"Gas Station","Riya Joshi",Medium,Singapore
+4287,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",128052.780000,"Shell Electronics","Aditya Joshi",Low,India
+4302,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",38049.460000,"Shell Electronics","Ananya Sharma",Low,India
+3101,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",120037.417500,"Crypto Exchange","Vivaan Reddy",Medium,Malaysia
+2416,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",125127.570000,"Shell Electronics","Vivaan Reddy",Medium,Malaysia
+1201,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",79663.515000,"Online Casino","Vivaan Reddy",Medium,Malaysia
+2758,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",89429.702500,"Online Casino","Madhav Joshi",High,Thailand
+3408,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",84720.733333,"Shell Electronics","Madhav Joshi",High,Thailand
+3295,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89744.060000,"Crypto Exchange","Madhav Joshi",High,Thailand
+2493,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",85143.606000,"Shell Electronics","Riya Mehta",Low,Singapore
+2903,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88833.794286,"Crypto Exchange","Riya Mehta",Low,Singapore
+3415,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",98900.047500,"Online Casino","Riya Mehta",Low,Singapore
+2206,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",111348.203333,"Shell Electronics","Sai Verma",Low,Malaysia
+3205,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",107561.301250,"Online Casino","Sai Verma",Low,Malaysia
+1292,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",111834.690000,"Crypto Exchange","Sai Verma",Low,Malaysia
+2557,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",92299.468750,"Crypto Exchange","Aarav Ramanujan",Medium,Thailand
+2305,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",89900.046667,"Online Casino","Aarav Ramanujan",Medium,Thailand
+3373,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",119082.915000,"Shell Electronics","Aarav Ramanujan",Medium,Thailand
+3362,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",97317.535000,"Crypto Exchange","Priya Nair",Medium,India
+5668,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",97317.535000,"Crypto Exchange","Priya Nair",Medium,India
+2105,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",127401.860000,"Online Casino","Priya Nair",Medium,India
+5665,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",127401.860000,"Online Casino","Priya Nair",Medium,India
+2255,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",58269.810000,"Shell Electronics","Priya Nair",Medium,India
+5666,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",86289.550000,"Luxury Retail","Priya Nair",Medium,India
+2292,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",115469.986667,"Shell Electronics","Arjun Patel",High,Singapore
+4271,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",118605.060000,"Shell Electronics","Arjun Patel",High,Singapore
+688,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",137243.180000,"Crypto Exchange","Arjun Patel",High,Singapore
+3361,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",72993.630000,"Online Casino","Arjun Patel",High,Singapore
+2935,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",82152.530000,"Shell Electronics","Arjun Patel",High,India
+2733,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",114112.423333,"Online Casino","Arjun Patel",High,India
+5689,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",114112.423333,"Online Casino","Arjun Patel",High,India
+5687,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108572.675000,"Luxury Retail","Arjun Patel",High,India
+4262,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",148031.730000,"Crypto Exchange","Aarav Verma",Low,India
+1255,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",93652.795000,"Shell Electronics","Vivaan Iyer",Medium,India
+766,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",135962.360000,"Crypto Exchange","Vivaan Iyer",Medium,India
+5711,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",135962.360000,"Crypto Exchange","Vivaan Iyer",Medium,India
+1889,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",74524.313333,"Online Casino","Vivaan Iyer",Medium,India
+5714,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",84482.035000,"Online Casino","Vivaan Iyer",Medium,India
+5716,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",105192.703333,"Luxury Retail","Vivaan Iyer",Medium,India
+846,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",73602.860000,"Online Casino","Rahul Reddy",Low,Thailand
+2872,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",104934.190000,"Crypto Exchange","Rahul Reddy",Low,Thailand
+3176,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",109814.832500,"Shell Electronics","Vivaan Verma",Low,Singapore
+2037,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",100967.260000,"Online Casino","Vivaan Verma",Low,Singapore
+3127,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",126677.135000,"Crypto Exchange","Vivaan Verma",Low,Singapore
+2718,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91540.265000,"Shell Electronics","Sai Patel",Low,Singapore
+2287,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88882.460000,"Crypto Exchange","Sai Patel",Low,Singapore
+2981,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",97378.012500,"Online Casino","Sai Patel",Low,Singapore
+3170,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",114091.478571,"Crypto Exchange","Sai Joshi",Low,India
+5734,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",114091.478571,"Crypto Exchange","Sai Joshi",Low,India
+1892,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116962.185000,"Shell Electronics","Sai Joshi",Low,India
+2185,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",85787.420000,"Online Casino","Sai Joshi",Low,India
+5727,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",85787.420000,"Online Casino","Sai Joshi",Low,India
+5730,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",97180.138571,"Luxury Retail","Sai Joshi",Low,India
+3053,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",81122.186667,"Crypto Exchange","Arjun Patel",Medium,Malaysia
+3382,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",107185.070000,"Online Casino","Arjun Patel",Medium,Malaysia
+2778,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",56746.140000,"Shell Electronics","Arjun Patel",Medium,Malaysia
+2726,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116580.222000,"Crypto Exchange","Riya Patel",Medium,Malaysia
+3297,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",114596.482500,"Online Casino","Riya Patel",Medium,Malaysia
+3246,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",87097.062000,"Shell Electronics","Riya Patel",Medium,Malaysia
+1462,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",90214.420000,"Online Casino","Aarav Verma",Medium,India
+5740,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",90214.420000,"Online Casino","Aarav Verma",Medium,India
+3137,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",81086.576667,"Shell Electronics","Aarav Verma",Medium,India
+5742,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",115813.776667,"Luxury Retail","Aarav Verma",Medium,India
+2112,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",132800.410000,"Crypto Exchange","Aarav Verma",Medium,India
+5741,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",132800.410000,"Crypto Exchange","Aarav Verma",Medium,India
+3066,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100844.850000,"Crypto Exchange","Ananya Das",High,Malaysia
+3291,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99865.762000,"Online Casino","Ananya Das",High,Malaysia
+2371,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105538.675000,"Shell Electronics","Ananya Das",High,Malaysia
+2587,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",107680.930000,"Online Casino","Aditya Patel",Low,India
+5753,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",107680.930000,"Online Casino","Aditya Patel",Low,India
+3125,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",112626.308750,"Shell Electronics","Aditya Patel",Low,India
+5754,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",128262.243333,"Luxury Retail","Aditya Patel",Low,India
+2187,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",132751.545000,"Crypto Exchange","Aditya Patel",Low,India
+5752,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",132751.545000,"Crypto Exchange","Aditya Patel",Low,India
+3173,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",97201.240000,"Crypto Exchange","Riya Joshi",Low,Singapore
+3138,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",94427.928333,"Shell Electronics","Riya Joshi",Low,Singapore
+3071,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",97816.890000,"Online Casino","Riya Joshi",Low,Singapore
+3270,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",121242.287500,"Shell Electronics","Riya Iyer",Low,India
+2836,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88105.751667,"Crypto Exchange","Riya Iyer",Low,India
+5764,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",88105.751667,"Crypto Exchange","Riya Iyer",Low,India
+5758,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",67638.500000,"Luxury Retail","Riya Iyer",Low,India
+2409,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",66642.460000,"Online Casino","Riya Iyer",Low,India
+5762,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",73618.675000,"Online Casino","Riya Iyer",Low,India
+2772,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",109816.566667,"Shell Electronics","Ananya Mehta",Low,India
+4279,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",113971.240000,"Shell Electronics","Ananya Mehta",Low,India
+4282,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",6851.190000,"Grocery Store","Ananya Mehta",Low,India
+3184,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",99530.825000,"Crypto Exchange","Ananya Mehta",Low,India
+5767,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",99530.825000,"Crypto Exchange","Ananya Mehta",Low,India
+2157,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",118248.800000,"Online Casino","Ananya Mehta",Low,India
+5766,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",118248.800000,"Online Casino","Ananya Mehta",Low,India
+50,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",108117.260000,"Shell Electronics","Aarav Reddy",Low,Thailand
+4269,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",108117.260000,"Shell Electronics","Aarav Reddy",Low,Thailand
+2717,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",112932.382500,"Online Casino","Aditya Reddy",High,India
+5778,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",112932.382500,"Online Casino","Aditya Reddy",High,India
+3268,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",105059.109091,"Shell Electronics","Aditya Reddy",High,India
+1777,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",118027.100000,"Crypto Exchange","Aditya Reddy",High,India
+5777,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",118027.100000,"Crypto Exchange","Aditya Reddy",High,India
+5779,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",121887.890000,"Luxury Retail","Aditya Reddy",High,India
+2259,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",125848.846667,"Online Casino","Priya Joshi",Low,India
+5785,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",125848.846667,"Online Casino","Priya Joshi",Low,India
+1203,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",98258.535000,"Crypto Exchange","Priya Joshi",Low,India
+5783,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",98258.535000,"Crypto Exchange","Priya Joshi",Low,India
+5788,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100990.860000,"Luxury Retail","Priya Joshi",Low,India
+2954,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",102466.450000,"Shell Electronics","Priya Joshi",Low,India
+3234,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",114592.173333,"Crypto Exchange","Madhav Sharma",Low,Malaysia
+1684,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",129324.505000,"Shell Electronics","Madhav Sharma",Low,Malaysia
+2626,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",81925.166667,"Shell Electronics","Sai Joshi",Medium,Thailand
+1618,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116834.316667,"Crypto Exchange","Sai Joshi",Medium,Thailand
+3244,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",94901.732000,"Online Casino","Sai Joshi",Medium,Thailand
+5811,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",108831.922500,"Luxury Retail","Madhav Mehta",High,India
+2461,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",110958.510000,"Shell Electronics","Madhav Mehta",High,India
+2732,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103883.110000,"Crypto Exchange","Madhav Mehta",High,India
+5809,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",103883.110000,"Crypto Exchange","Madhav Mehta",High,India
+909,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",140043.570000,"Online Casino","Madhav Mehta",High,India
+5806,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",140043.570000,"Online Casino","Madhav Mehta",High,India
+2939,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",101783.150000,"Crypto Exchange","Aditya Ramanujan",High,Singapore
+1993,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",80904.635000,"Online Casino","Aditya Ramanujan",High,Singapore
+3120,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",118850.365000,"Shell Electronics","Aditya Ramanujan",High,Singapore
+5820,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",102778.212500,"Luxury Retail","Madhav Joshi",Low,India
+2832,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103970.300000,"Crypto Exchange","Madhav Joshi",Low,India
+5818,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",120564.436667,"Crypto Exchange","Madhav Joshi",Low,India
+3209,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100260.846667,"Shell Electronics","Madhav Joshi",Low,India
+3163,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",86175.245000,"Online Casino","Madhav Joshi",Low,India
+5819,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",86175.245000,"Online Casino","Madhav Joshi",Low,India
+3123,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88485.430000,"Shell Electronics","Priya Das",Medium,Malaysia
+1276,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",116289.860000,"Crypto Exchange","Priya Das",Medium,Malaysia
+1902,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",93609.110000,"Online Casino","Priya Das",Medium,Malaysia
+3202,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",110320.520000,"Online Casino","Aarav Patel",Low,Singapore
+1349,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",127932.015000,"Shell Electronics","Aarav Patel",Low,Singapore
+2971,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",115382.350000,"Crypto Exchange","Aarav Patel",Low,Singapore
+2177,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",115224.546667,"Online Casino","Arjun Mehta",Medium,Malaysia
+2804,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",87631.500000,"Shell Electronics","Arjun Mehta",Medium,Malaysia
+2411,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",111956.070000,"Crypto Exchange","Arjun Mehta",Medium,Malaysia
+3063,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",112655.171429,"Crypto Exchange","Arjun Mehta",Medium,Thailand
+3302,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91442.477500,"Shell Electronics","Arjun Mehta",Medium,Thailand
+1055,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",88861.522500,"Online Casino","Arjun Mehta",Medium,Thailand
+4278,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",138985.310000,"Crypto Exchange","Arjun Mehta",Medium,Thailand
+51,"Velocity Spike: Consecutive transactions executed within 5 minutes","Pending Review","2026-09-29 00:31:40",114036.050000,"Grocery Store","Arjun Mehta",Medium,Thailand
+3182,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",89329.015000,"Shell Electronics","Priya Reddy",Low,India
+2847,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",91742.885000,"Online Casino","Priya Reddy",Low,India
+5830,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",129795.550000,"Online Casino","Priya Reddy",Low,India
+5833,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",62598.225000,"Luxury Retail","Priya Reddy",Low,India
+1860,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",100104.730000,"Crypto Exchange","Priya Reddy",Low,India
+5832,"GEOGRAPHIC MISMATCH: Cross-border wire anomaly detected via offshore gateway","Pending Review","2026-09-29 00:31:43",100104.730000,"Crypto Exchange","Priya Reddy",Low,India
+318,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",138803.770000,"Shell Electronics","Aditya Reddy",Low,Malaysia
+3400,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",88926.443333,"Crypto Exchange","Aditya Reddy",Low,Malaysia
+3145,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",93817.920000,"Online Casino","Aditya Reddy",Low,Malaysia
+3376,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",99776.110000,"Online Casino","Priya Patel",Medium,Thailand
+3233,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",103045.970000,"Shell Electronics","Priya Patel",Medium,Thailand
+3278,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",112870.082000,"Crypto Exchange","Priya Patel",Medium,Thailand
+4292,"ADVANCED AML ALERT: Velocity Structuring. Total spending within a 1-hour window exceeded ₹1,50,000","Pending Review","2026-09-29 00:31:40",86141.770000,"Grocery Store","Priya Patel",Medium,Thailand
+3064,"CRITICAL RISK: Transaction at maximum-security blacklisted merchant","Pending Review","2026-09-29 00:31:40",90390.550000,"Online Casino","Rahul Ramanujan",Medium,Thailand
+1289,"HIGH RISK: Uncharacteristic spending at restricted merchant category","Pending Review","2026-09-29 00:31:40",91914.415000,"Crypto Exchange","Rahul Ramanujan",Medium,Thailand
